@@ -19,7 +19,9 @@ export function MainForm() {
       </div>
 
       <div className="formRow">
-        <p>Lorem ipsum dolor sit amet.</p>
+        <p>
+          Próximo intervalo é de <strong>25 </strong>minutos.
+        </p>
       </div>
 
       <div className="formRow">
